@@ -26,7 +26,8 @@ function findNewIndex(taskQueue, currentIndex, currentIndexMember) {
     
     for (Lead l:Leadobj) {
      
-    1.LeadSource= 'Dreamforce'; updateLead.add(1); 
+    1.LeadSource= 'Dreamforce';
+        updateLead.add(1); 
     }
     
     update updateLead;
